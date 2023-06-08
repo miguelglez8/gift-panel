@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+		
+	<indexitem text="¿Qué es el Panel de Regalos?" target="panel" />
+    <indexitem text="¿Cómo identificarse en la web?">
+		<indexitem text="¿Cómo registrase en la web?" target="registrar" />
+		<indexitem text="¿Cómo obtener el identificador de la tarjeta de cliente?" target="identificador" />
+	</indexitem>
+	<indexitem text="¿Cómo jugar?" target="jugar" />
+	<indexitem text="Seleccionar casillas del panel" target="casillas" />
+	<indexitem text="Comprar en la web">
+			<indexitem text="Agregar regalos al carrito" target="regalos" />
+			<indexitem text="¿Cómo filtrar los regalos?" target="filtrar" />
+			<indexitem text="Añadir un artículo" target="articulo" />
+			<indexitem text="Añadir un viaje" target="viaje" />
+			<indexitem text="Introducir observaciones a un viaje" target="observaciones" />
+			<indexitem text="Seleccionar una fecha de inicio del viaje" target="fecha" />
+	</indexitem>
+	<indexitem text="Finalizar la compra">
+			<indexitem text="Finalizar el proceso de confirmación o eliminación del pedido" target="entrega" />
+			<indexitem text="Confirmar un artículo" target="confirmacion" />
+			<indexitem text="Eliminar un artículo" target="eliminacion" />
+			<indexitem text="Visualizar el pedido" target="pedido" />	
+	</indexitem>	
+	<indexitem text="Terminar la entrega" target="finalizar" />
+	<indexitem text="¿Qué pasa si no conseguimos ningún punto?" target="derrota" />
+		
+</index>

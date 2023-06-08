@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+
+  <tocitem text="¿Qué es el Panel de Regalos?" target="panel" />
+  <tocitem text="Acceder como cliente a la web">
+      <tocitem text="¿Cómo registrase en la web?" target="registrar" />
+      <tocitem text="¿Cómo obtener el identificador de la tarjeta de cliente?" target="identificador" />
+  </tocitem>
+  <tocitem text="¿Cómo jugar?" target="jugar" />
+  <tocitem text="Seleccionar casillas del panel" target="casillas" />
+  <tocitem text="¿Cómo añadir regalos al carro?">
+      <tocitem text="Agregar regalos al carrito" target="regalos" />
+      <tocitem text="¿Cómo filtrar los regalos? " target="filtrar" />
+      <tocitem text="Añadir un artículo" target="articulo" />
+      <tocitem text="Añadir un viaje" target="viaje" />
+      <tocitem text="Introducir observaciones a un viaje" target="observaciones" />
+      <tocitem text="Seleccionar una fecha de inicio del viaje" target="fecha" />
+  </tocitem>
+  <tocitem text="¿Cómo confirmar la entrega?">
+      <tocitem text="Finalizar el proceso de confirmación o eliminación del pedido" target="entrega" />
+      <tocitem text="Confirmar un artículo" target="confirmacion" />
+      <tocitem text="Eliminar un artículo" target="eliminacion" />
+      <tocitem text="Visualizar el pedido" target="pedido" />
+  </tocitem>
+  <tocitem text="Finalizar el proceso de entrega" target="finalizar" />
+  <tocitem text="¿Qué pasa si no conseguimos ningún punto?" target="derrota" />
+ 
+</toc>
