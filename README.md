@@ -1,3 +1,3 @@
-# panel-de-regalos
-Proyecto de la asignatura de CPM (Comunicación Persona-Máquina).
-Basado en un panel de regalos donde el usuario puede elegir distintos premios en función de su saldo
+# gift-panel
+CPM subject project (Person-Machine Communication).
+Based on a gifts panel where the user can choose different prizes based on their balance
